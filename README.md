@@ -17,12 +17,12 @@ Now you can simply run  (Use python or python3 according to your python version.
   > python3 pencilSketch.py 
 
 
-Note :- * Make sure you have python/python3 installed.
+Note :- 1 Make sure you have python/python3 installed.
 
-        * Install opencv by typing  (Use pip or pi3 according to your python version.)
+        2 Install opencv by typing  (Use pip or pi3 according to your python version.)
         
           > pip3 install opencv-python
           
-        * Be sure to give a valid path to image. Out of the box the default trialIMG.jpg will be used.
+        3 Be sure to give a valid path to image. Out of the box the default trialIMG.jpg will be used.
 
 ThankYou
