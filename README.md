@@ -13,10 +13,12 @@ Then >cd convert-Image-to-pencilDrawing
 Voila! There You go!
 
 Now you can simply run  (Use python or python3 according to your python version.)
+
   > python3 pencilSketch.py 
 
 
 Note :- * Make sure you have python/python3 installed.
+
         * Install opencv by typing  (Use pip or pi3 according to your python version.)
           > pip3 install opencv-python
           
