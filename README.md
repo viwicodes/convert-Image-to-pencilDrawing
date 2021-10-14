@@ -20,6 +20,7 @@ Now you can simply run  (Use python or python3 according to your python version.
 Note :- * Make sure you have python/python3 installed.
 
         * Install opencv by typing  (Use pip or pi3 according to your python version.)
+        
           > pip3 install opencv-python
           
         * Be sure to give a valid path to image. Out of the box the default trialIMG.jpg will be used.
