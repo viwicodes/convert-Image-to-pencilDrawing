@@ -3,7 +3,7 @@
 
 This python code converts an RGB image to grayscale image giving an effect of pencil drawing of the image.
 This code uses opencv-python library to get the job done.
-To use this code, either download it or open a command prompt and clone the repo like,
+To use this code, either download it or open a terminal and clone this repo like,
 
 > git clone https://github.com/viwicodes/convert-Image-to-pencilDrawing
 
